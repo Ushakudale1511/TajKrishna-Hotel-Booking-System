@@ -1,0 +1,55 @@
+/* Background specific to the registration page */
+.registration-page {
+    min-height: 100vh; /* Full-screen height */
+    background: linear-gradient(to right, #7ed5ea, #161f6d); /* Gradient background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Registration card styling */
+  .registration-card {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .registration-card h2 {
+    color: #161f6d;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .registration-card .form-control {
+    border: 2px solid #7ed5ea;
+    border-radius: 50px;
+    padding: 10px 20px;
+  }
+  
+  .registration-card .btn-register {
+    background: linear-gradient(to right, #7ed5ea, #161f6d);
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    color: #fff;
+    font-weight: bold;
+    width: 100%;
+    transition: all 0.3s;
+  }
+  
+  .registration-card .btn-register:hover {
+    transform: scale(1.05);
+  }
+  
+  .registration-card a {
+    text-decoration: none;
+    color: #161f6d;
+  }
+  
+  .registration-card a:hover {
+    text-decoration: underline;
+  }
+  

@@ -105,10 +105,32 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
+**Landing Page:**
 
-This project is licensed under the **MIT License** — feel free to learn, modify, and build on it.
+<p align="center" style="cursor: pointer">
+  <img src="img/Homeinterface.png" alt="Landing Page" style="border-radius: 10px" width="100%"/>
+</p>
 
----
 
-### ⭐ 
+
+**Booking Page:**
+
+<p align="center" style="cursor: pointer">
+  <img src="img/RoomBooking.png" alt="Booking Page" style="border-radius: 10px" width="100%"/>
+</p>
+
+
+
+**Booking-2 Page:**
+
+<p align="center" style="cursor: pointer">
+  <img src="img/afterRoomBookingFormFiling.png" alt="Booking Page" style="border-radius: 10px" width="100%"/>
+</p>
+
+
+
+**Booking_Success Page:**
+
+<p align="center" style="cursor: pointer">
+  <img src="img/BuckingSuccess.png" alt="BookingSuccess Page" style="border-radius: 10px" width="100%"/>
+</p>

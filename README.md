@@ -105,32 +105,34 @@ Contributions are welcome!
 
 ---
 
-**Landing Page:**
+## 📸 Output
 
-<p align="center" style="cursor: pointer">
-  <img src="img/Homeinterface.png" alt="Landing Page" style="border-radius: 10px" width="100%"/>
+### 🔐 Login Page
+<p align="center">
+  <img src="Output Images/login.png" alt="Login Page" width="100%"/>
 </p>
 
-
-
-**Booking Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/RoomBooking.png" alt="Booking Page" style="border-radius: 10px" width="100%"/>
+### 📝 Register Page
+<p align="center">
+  <img src="Output Images/Register.png" alt="Register Page" width="100%"/>
 </p>
 
-
-
-**Booking-2 Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/afterRoomBookingFormFiling.png" alt="Booking Page" style="border-radius: 10px" width="100%"/>
+### 🏨 Landing Page
+<p align="center">
+  <img src="Output Images/Homeinterface.png" alt="Landing Page" width="100%"/>
 </p>
 
+### 🛏️ Booking Page
+<p align="center">
+  <img src="Output Images/RoomBooking.png" alt="Booking Page" width="100%"/>
+</p>
 
+### 🧾 Booking Form Filled
+<p align="center">
+  <img src="Output Images/afterRoomBookingFormFiling.png" alt="Booking Form" width="100%"/>
+</p>
 
-**Booking_Success Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/BuckingSuccess.png" alt="BookingSuccess Page" style="border-radius: 10px" width="100%"/>
+### ✅ Booking Success
+<p align="center">
+  <img src="Output Images/BuckingSuccess.png" alt="Booking Success" width="100%"/>
 </p>

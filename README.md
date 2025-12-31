@@ -212,7 +212,7 @@ Contributions are welcome!
 </p>
 
 <p align="center">
-  <img src="Output Images/Managebooking2.png" alt="Manage Booking 2" width="100%"/>
+  <img src="Output Images/managebooking2.png" alt="Manage Booking 2" width="100%"/>
 </p>
 
 ---
